@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedRamy5027
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning fullstack 
-- 💞️ I’m looking to collaborate on many project
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me medramymahjoub1990@gmail.com
 
 <!---
